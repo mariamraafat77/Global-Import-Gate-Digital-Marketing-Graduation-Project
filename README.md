@@ -2,13 +2,12 @@
 
 ## 👥 Group Members
 - Mariam Raafat
-- Somaya Ahmed
 
 ## 🎓 Instructor
 Dr. Ahmed Gamal
 
 # 🧾 Project Overview
-VII Farms is a leading food processing company specializing in high-quality frozen products. It focuses on supplying restaurants, hotels, and cafes across the local market with premium and consistent frozen foods. With a modern production facility and strict quality standards, VII Farms ensures reliability and freshness in every batch. The company is committed to supporting the HoReCa sector with a wide range of frozen products and excellent customer service. VII Farms aims to be the preferred local partner for frozen food solutions.
+Global import gate  is a leading food processing company specializing in high-quality frozen products. It focuses on supplying restaurants, hotels, and cafes across the local market with premium and consistent frozen foods. With a modern production facility and strict quality standards, VII Farms ensures reliability and freshness in every batch. The company is committed to supporting the HoReCa sector with a wide range of frozen products and excellent customer service. VII Farms aims to be the preferred local partner for frozen food solutions.
 
 # 🎯 Project Objectives
 - Increase sales by 3–5 folds within 1 year  
